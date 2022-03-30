@@ -4,14 +4,14 @@
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/OS-KDENeon-informational?style=flat&logo=kde&logoColor=white&color=3572A5)
+![](https://img.shields.io/badge/OS-KDE_Neon-informational?style=flat&logo=kde&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=3572A5)
 
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/IDE-Android-informational?style=flat&logo=androidstudio&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/IDE-CLion-informational?style=flat&logo=clion&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=intellijidea&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/IDE-SublimeText-informational?style=flat&logo=sublimetext&logoColor=white&color=3572A5)
+![](https://img.shields.io/badge/IDE-Sublime_Text-informational?style=flat&logo=sublimetext&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/IDE-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=3572A5)
 
@@ -25,6 +25,10 @@
 
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=3572A5)
+![](https://img.shields.io/badge/Tool-Jira-informational?style=flat&logo=jirasoftware&logoColor=white&color=3572A5)
+![](https://img.shields.io/badge/Tool-TeamCity-informational?style=flat&logo=teamcity&logoColor=white&color=3572A5)
+![](https://img.shields.io/badge/Tool-Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=3572A5)
+
 
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Code-NoSQL-informational?style=flat&logo=nosql&logoColor=white&color=3572A5)
